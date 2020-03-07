@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60647c81-bd87-4c0b-82aa-15bac6eb5f63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polls/migrations/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583544792268</updated>
-      <workItem from="1583544806475" duration="723000" />
+      <workItem from="1583544806475" duration="1039000" />
     </task>
     <task id="LOCAL-00001" summary="views.py">
       <created>1583559218483</created>
@@ -72,7 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583559218483</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="urls.py modified">
+      <created>1583559441967</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583559441967</updated>
+    </task>
+    <task id="LOCAL-00003" summary="part 1 complete">
+      <created>1583559506163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583559506163</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,12 +101,14 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="views.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="views.py" />
+    <MESSAGE value="urls.py modified" />
+    <MESSAGE value="part 1 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="part 1 complete" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-846" y="38" key="CommitChangelistDialog2" timestamp="1583559441874">
+    <state x="-846" y="38" key="CommitChangelistDialog2" timestamp="1583559506064">
       <screen x="-1920" y="23" width="1920" height="1003" />
     </state>
-    <state x="-846" y="38" key="CommitChangelistDialog2/0.23.1440.877/-1920.23.1920.1003@-1920.23.1920.1003" timestamp="1583559441874" />
+    <state x="-846" y="38" key="CommitChangelistDialog2/0.23.1440.877/-1920.23.1920.1003@-1920.23.1920.1003" timestamp="1583559506064" />
   </component>
 </project>
