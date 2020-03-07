@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60647c81-bd87-4c0b-82aa-15bac6eb5f63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/polls/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583544792268</updated>
-      <workItem from="1583544806475" duration="1039000" />
+      <workItem from="1583544806475" duration="1886000" />
     </task>
     <task id="LOCAL-00001" summary="views.py">
       <created>1583559218483</created>
@@ -92,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583559506163</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="models.py">
+      <created>1583560029100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583560029100</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,12 +114,13 @@
     <MESSAGE value="views.py" />
     <MESSAGE value="urls.py modified" />
     <MESSAGE value="part 1 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="part 1 complete" />
+    <MESSAGE value="models.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="models.py" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-846" y="38" key="CommitChangelistDialog2" timestamp="1583559506064">
+    <state x="-846" y="38" key="CommitChangelistDialog2" timestamp="1583560028998">
       <screen x="-1920" y="23" width="1920" height="1003" />
     </state>
-    <state x="-846" y="38" key="CommitChangelistDialog2/0.23.1440.877/-1920.23.1920.1003@-1920.23.1920.1003" timestamp="1583559506064" />
+    <state x="-846" y="38" key="CommitChangelistDialog2/0.23.1440.877/-1920.23.1920.1003@-1920.23.1920.1003" timestamp="1583560028998" />
   </component>
 </project>
